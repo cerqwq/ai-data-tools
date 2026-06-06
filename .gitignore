@@ -1,8 +1,23 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
 *.db
 *.log
-.env
+*.sqlite3
+.eggs/
 *.egg-info/
 dist/
 build/
+*.egg
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
