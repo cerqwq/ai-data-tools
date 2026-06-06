@@ -1,23 +1,8 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
 *.db
 *.log
-*.sqlite3
-.eggs/
+.env
 *.egg-info/
 dist/
 build/
-*.egg
-.venv/
-venv/
-env/
-.env
-.idea/
-.vscode/
-*.swp
-*.swo
-.DS_Store
-Thumbs.db
